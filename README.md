@@ -2,4 +2,4 @@
 
 ---
 
-## JavaScript
+## JavaScript Game
